@@ -1,0 +1,10 @@
+# Large binaries - stay on Drive only, tracked via MANIFEST.md checksums
+/data/raw/
+*.pt
+*.pth
+*.pkl
+*.pdbqt
+*.sdf
+__pycache__/
+.ipynb_checkpoints/
+*.log
