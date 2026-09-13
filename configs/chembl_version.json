@@ -1,0 +1,6 @@
+{
+  "chembl_db_version": "ChEMBL_37",
+  "chembl_release_date": "2026-05-01",
+  "queried_on": "2026-09-13",
+  "note": "Recorded via ChEMBL status API before Phase 2 data pull. All Dataset A (training) and Dataset B (screening) downloads in this project use this release."
+}
