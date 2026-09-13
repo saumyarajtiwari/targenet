@@ -15,3 +15,4 @@
 2026-09-13 | P1.1 | Fixed torch install to CUDA-enabled build after Runtime>GPU switch; confirmed Tesla T4 visible; re-pinned requirements.txt | 559dabf
 2026-09-13 | P1.1 | Reinstalled cheminformatics/ML packages lost after GPU runtime restart; requirements.txt now complete | 8cfd34b
 2026-09-13 | P1.4 | Recorded ChEMBL release version (ChEMBL_37, 2026-05-01) to configs/chembl_version.json | a110747
+2026-09-13 | P1.5-metabolic | Literature validation gate passed for 6 Metabolic-family targets (DPP-4, SGLT-2, PTP1B, GLP-1R, HMG-CoA Reductase, PCSK9), >=3 independent sources each | 225fae6
