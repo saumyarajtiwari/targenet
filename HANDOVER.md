@@ -12,3 +12,4 @@
 2026-09-13 | P1.1 | Installed rdkit, torch, torch_geometric, chembl_webresource_client, biopython, sklearn, xgboost, mlxtend, umap-learn | fccdf50
 2026-09-13 | P1.1 | Installed and pinned rdkit, torch, torch_geometric, chembl_webresource_client, biopython, sklearn, xgboost, mlxtend, umap-learn to configs/requirements.txt | 9f5ba93
 2026-09-13 | P1.2-1.3 | Created data/raw, data/clean, eda, models folders; confirmed GPU visibility | d25e17b
+2026-09-13 | P1.1 | Fixed torch install to CUDA-enabled build after Runtime>GPU switch; confirmed Tesla T4 visible; re-pinned requirements.txt | cc00883
