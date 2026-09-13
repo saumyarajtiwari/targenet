@@ -9,3 +9,4 @@
 ## Progress Log
 <!-- Format: YYYY-MM-DD | Substep ID | one-line result | commit hash -->
 2026-09-13 | P0.1-0.7 | Repo skeleton created, pushed to GitHub main | a841f59
+2026-09-13 | P1.1 | Installed rdkit, torch, torch_geometric, chembl_webresource_client, biopython, sklearn, xgboost, mlxtend, umap-learn | 5bb0b19
