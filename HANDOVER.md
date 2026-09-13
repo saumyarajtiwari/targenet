@@ -18,3 +18,4 @@
 2026-09-13 | P1.5-metabolic | Literature validation gate passed for 6 Metabolic-family targets (DPP-4, SGLT-2, PTP1B, GLP-1R, HMG-CoA Reductase, PCSK9), >=3 independent sources each | 225fae6
 2026-09-13 | P1.5-cardiovascular | Literature validation gate passed for 5 Cardiovascular-family targets (ACE, AT1R, PDE5, COX-2, Renin), >=3 independent sources each; noted COX-2 dual-family status and aliskiren withdrawal caveat | 927cf64
 2026-09-13 | P1.5-neurodegenerative | Literature validation gate passed for 5 Neurodegenerative-family targets (AChE, BACE1, GSK-3b, MAO-B, LRRK2), >=3 independent sources each; noted BACE1 trial discontinuation and LRRK2 clinical-validation-pending caveats | 9cb642f
+2026-09-13 | P1.5-eye | Literature validation gate passed for 3 Eye-family targets (Carbonic Anhydrase II, VEGFR-2, Aldose Reductase), >=3 independent sources each; noted aldose reductase clinical-translation caveat | d4377de
