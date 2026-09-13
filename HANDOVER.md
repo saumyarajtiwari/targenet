@@ -14,3 +14,4 @@
 2026-09-13 | P1.2-1.3 | Created data/raw, data/clean, eda, models folders; confirmed GPU visibility | d25e17b
 2026-09-13 | P1.1 | Fixed torch install to CUDA-enabled build after Runtime>GPU switch; confirmed Tesla T4 visible; re-pinned requirements.txt | cc00883
 2026-09-13 | P1.1 | Reinstalled cheminformatics/ML packages lost after GPU runtime restart; requirements.txt now complete | dddb526
+2026-09-13 | P1.4 | Recorded ChEMBL release version (ChEMBL_37, 2026-05-01) to configs/chembl_version.json | a691158
